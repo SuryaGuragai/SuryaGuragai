@@ -1,2 +1,54 @@
-In this Documents i have attached a shortcut commands for IT professionals
-https://github.com/SuryaGuragai/SuryaGuragai/blob/5ec2d573dca12308520d22f281bf76e1c2e32e2a/Commands%20lists.pdf
+ Hi, I'm Surya
+IT Support • Systems Administration • Cloud • Active Directory • Automation
+
+Welcome to my GitHub profile. I am an IT professional focused on system administration, cloud technologies, Active Directory, troubleshooting, and automation. I also built Getsupportit, a professional IT support and documentation website.
+
+---
+
+## Technical Guides and Documentation
+Here are the guides I am currently publishing and maintaining:
+
+### How to Configure Cisco Phone in Cisco Unified CM Administration
+A step-by-step guide covering:
+- Adding a new phone
+- Assigning device pools
+- Configuring directory numbers
+- Setting calling search spaces
+- Applying phone templates
+Documentation coming soon
+
+---
+
+### How to Assign Licenses and Provision Cloud PCs in Microsoft 365
+Includes:
+- Assigning Microsoft 365 licenses
+- Provisioning Cloud PCs
+- Setting up user access
+- Managing device policies
+Documentation coming soon
+
+---
+
+### Block CMD Prompt and Control Panel (Step-by-Step)
+Covers:
+- Group Policy restrictions
+- Blocking CMD
+- Blocking Control Panel
+- Security hardening for end-user devices
+Documentation coming soon
+
+---
+
+## My Website
+Getsupportit –   
+Add your website link here
+www.getsupportit.com
+---
+
+## Contact Me
+Email: add your email  
+LinkedIn: add your LinkedIn
+
+---
+
+More guides and documentation coming soon.
