@@ -36,7 +36,7 @@ Covers:
 - Blocking Control Panel
 - Security hardening for end-user devices
 Documentation coming soon
-https://github.com/SuryaGuragai/SuryaGuragai/tree/a5a97f0fdec6ef80bc3d13f870a06d8fd29b6a64/screenshots
+
 ---
 
 ## My Website
