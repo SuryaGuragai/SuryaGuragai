@@ -41,7 +41,6 @@ Documentation coming soon
 
 ## My Website
 Getsupportit –   
-Add your website link here
 www.getsupportit.com
 ---
 
@@ -50,5 +49,3 @@ Email: add your email
 LinkedIn: add your LinkedIn
 
 ---
-
-More guides and documentation coming soon.
